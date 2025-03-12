@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de Página Accesible</title>
+</head>
+<body>
+    <nav aria-label="Navegación principal">
+        <ul>
+            <li><a href="#" aria-current="page">Inicio</a></li>
+            <li><a href="#">Acerca</a></li>
+            <li><a href="#">Contacto</a></li>
+        </ul>
+    </nav>
+    
+    <img src="imagen.jpg" alt="Descripción de la imagen">
+    
+    <form>
+        <label for="nombre">Nombre</label>
+        <input type="text" id="nombre" name="nombre" required aria-required="true">
+        <button type="submit">Enviar</button>
+    </form>
+    
+    <table>
+        <caption>Lista de productos y precios</caption>
+        <thead>
+            <tr>
+                <th scope="col">Producto</th>
+                <th scope="col">Precio</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Item 1</td>
+                <td>$10</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

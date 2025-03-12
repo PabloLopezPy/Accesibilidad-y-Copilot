@@ -1,0 +1,11 @@
+Necesito desarrollar un prompt efectivo para que asistentes de IA como GitHub Copilot mejoren la accesibilidad web en código HTML según WCAG 2.2. Por favor, ayúdame con:
+
+Un prompt detallado que cubra todos los criterios de accesibilidad WCAG 2.2 y etiquetas ARIA (nivel AA y AAA opcional).
+Un ejemplo de código HTML original sin accesibilidad que incluya elementos diversos como formularios, tablas, imágenes y navegación.
+El mismo código transformado para ser completamente accesible.
+Una estructura para el repositorio GitHub donde documentar el proceso.
+Un README.md bilingüe (español e inglés) detallando el desarrollo del prompt y los pasos para validación.
+Recomendaciones sobre herramientas de validación como WAVE, Axe, Lighthouse, etc., y cómo usarlas para verificar la accesibilidad.
+Consejos para iterar y perfeccionar el prompt hasta lograr que el código sea completamente accesible.
+
+Necesito que el prompt final sea eficaz para transformar código HTML en versiones accesibles que cumplan con los estándares WCAG 2.2
